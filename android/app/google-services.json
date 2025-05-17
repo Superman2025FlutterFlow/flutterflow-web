@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833650497132",
+    "project_id": "fflow1b-9a1iql",
+    "storage_bucket": "fflow1b-9a1iql.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833650497132:android:b384fdc3c38a3586012a49",
+        "android_client_info": {
+          "package_name": "com.mycompany.fflow1b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBurJUARonxtperrWXBcDkgSNh09cT3wjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
