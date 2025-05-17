@@ -3,7 +3,7 @@ name: Deploy Flutter Web to Server
 on:
   push:
     branches:
-      - production
+      - main
 
 jobs:
   build_and_deploy:
