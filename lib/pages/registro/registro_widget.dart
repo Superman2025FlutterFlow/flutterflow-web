@@ -367,7 +367,7 @@ class _RegistroWidgetState extends State<RegistroWidget> {
                 child: Padding(
                   padding: EdgeInsetsDirectional.fromSTEB(20.0, 14.0, 0.0, 5.0),
                   child: Text(
-                    'Repite Contraseña',
+                    'Repite Contraseñas',
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
                           font: GoogleFonts.inter(
                             fontWeight: FontWeight.w500,
